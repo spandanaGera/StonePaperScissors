@@ -1,5 +1,6 @@
 # StonePaperScissors
 This project is a web-based implementation of the classic game "Stone Paper Scissors," built using HTML, CSS, and JavaScript. It allows users to play against the computer in a simple yet interactive game environment.
+<h3>Click here to play!!"https://spandanagera.github.io/StonePaperScissors"/</h3>
 <ul><h2>Features:</h2>
 <li>Interactive Gameplay: Users can select their choice (stone, paper, or scissors) by clicking on corresponding buttons</li>
 <li>Opponent: The computer generates a random choice for each round</li>
@@ -11,4 +12,3 @@ This project is a web-based implementation of the classic game "Stone Paper Scis
 <li>CSS: Styling and design to enhance user experience</li>
 <li>JavaScript: Logic for game mechanism, including player/computer interactions and determination of result</li>
 </ul>
-<h3>Click here to play!!"https://spandanagera.github.io/StonePaperScissors"/</h3>
