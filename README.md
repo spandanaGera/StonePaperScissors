@@ -11,3 +11,4 @@ This project is a web-based implementation of the classic game "Stone Paper Scis
 <li>CSS: Styling and design to enhance user experience</li>
 <li>JavaScript: Logic for game mechanism, including player/computer interactions and determination of result</li>
 </ul>
+<h3>Click here to play!!"https://spandanagera.github.io/StonePaperScissors"/</h3>
